@@ -28,8 +28,6 @@ Print the results to the console.
 
 - print the contents of the response variable to the console
 
-`@hint`
-
 
 
 
